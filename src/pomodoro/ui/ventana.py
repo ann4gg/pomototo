@@ -6,5 +6,8 @@ ventana = ctk.CTk()
 ventana.title("Pomototo")
 ventana.geometry("400x300")
 ventana.resizable(False, False)
+texto = ctk.CTkLabel(ventana, text="25:00")
+texto.ctk.CTkLabel(ventana, text="25:00")
+texto.pack()
 
 ventana.mainloop()
