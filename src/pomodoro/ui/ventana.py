@@ -1,5 +1,5 @@
 import customtkinter as ctk
 
-ventana = ctk.______()
+ventana = ctk.CTk()
 ventana.title("Pomototo")
-ventana.______()
+ventana.mainloop()
